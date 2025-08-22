@@ -57,8 +57,6 @@ Bias: 0.12
 
 Detection result: 1
 ```
-```
-```
 
 ## Dataset
 
